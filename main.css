@@ -1,5 +1,5 @@
 .center {
-    width: 50%;
+    width: 60%;
     margin: auto;
 }
 
@@ -36,14 +36,11 @@ button {
     height: 35px;
     border-color: white;
     font-weight: bold;
+    color: white;
 }
 
 a {
     text-decoration: none;
-}
-
-.white {
-    color: white;
 }
 
 img {
